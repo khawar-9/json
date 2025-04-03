@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",  // Asegúrate de que sea "commonjs"
+    "target": "es6",       // O cualquier otra versión que necesites
+    "esModuleInterop": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}

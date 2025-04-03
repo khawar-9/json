@@ -1,0 +1,103 @@
+[
+    {
+      "Nom_Barri": "el Raval",
+      "Edad_Promedio": 39.5,
+      "Total_Habitantes": 48000
+    },
+    {
+      "Nom_Barri": "Dreta de l'Eixample",
+      "Edad_Promedio": 42.3,
+      "Total_Habitantes": 53000
+    },
+    {
+      "Nom_Barri": "Sants",
+      "Edad_Promedio": 41.7,
+      "Total_Habitantes": 57000
+    },
+    {
+      "Nom_Barri": "Gràcia",
+      "Edad_Promedio": 38.4,
+      "Total_Habitantes": 49000
+    },
+    {
+      "Nom_Barri": "Poblenou",
+      "Edad_Promedio": 36.9,
+      "Total_Habitantes": 45000
+    },
+    {
+      "Nom_Barri": "Sant Andreu",
+      "Edad_Promedio": 44.1,
+      "Total_Habitantes": 60000
+    },
+    {
+      "Nom_Barri": "Les Corts",
+      "Edad_Promedio": 43.5,
+      "Total_Habitantes": 55000
+    },
+    {
+      "Nom_Barri": "Horta",
+      "Edad_Promedio": 40.2,
+      "Total_Habitantes": 52000
+    },
+    {
+      "Nom_Barri": "Sarrià",
+      "Edad_Promedio": 46.0,
+      "Total_Habitantes": 47000
+    },
+    {
+      "Nom_Barri": "Barceloneta",
+      "Edad_Promedio": 37.8,
+      "Total_Habitantes": 39000
+    },
+    {
+      "Nom_Barri": "Clot",
+      "Edad_Promedio": 41.5,
+      "Total_Habitantes": 51000
+    },
+    {
+      "Nom_Barri": "Sant Martí",
+      "Edad_Promedio": 39.2,
+      "Total_Habitantes": 63000
+    },
+    {
+      "Nom_Barri": "Nou Barris",
+      "Edad_Promedio": 45.7,
+      "Total_Habitantes": 70000
+    },
+    {
+      "Nom_Barri": "Hostafrancs",
+      "Edad_Promedio": 42.9,
+      "Total_Habitantes": 56000
+    },
+    {
+      "Nom_Barri": "Poble-sec",
+      "Edad_Promedio": 38.1,
+      "Total_Habitantes": 44000
+    },
+    {
+      "Nom_Barri": "Verdun",
+      "Edad_Promedio": 43.8,
+      "Total_Habitantes": 49000
+    },
+    {
+      "Nom_Barri": "La Sagrera",
+      "Edad_Promedio": 40.9,
+      "Total_Habitantes": 53000
+    },
+    {
+      "Nom_Barri": "Gòtic",
+      "Edad_Promedio": 37.5,
+      "Total_Habitantes": 41000
+    },
+    {
+      "Nom_Barri": "Bonavista",
+      "Edad_Promedio": 44.3,
+      "Total_Habitantes": 48000
+    },
+    {
+      "Nom_Barri": "Montjuïc",
+      "Edad_Promedio": 39.7,
+      "Total_Habitantes": 46000
+    }
+  ]
+  
